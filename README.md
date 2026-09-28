@@ -1,80 +1,62 @@
-# NTI Project 🎓
+# NTI Training Project
 
-<div align="center">
+A Flutter/Dart project completed as part of the NTI (National Telecommunications Institute) training program.
 
-**A comprehensive project for NTI training**
+## 📚 Project Overview
 
-[Overview](#overview) • [Features](#features) • [Tech Stack](#tech-stack) • [Installation](#installation)
+This project demonstrates modern mobile app development practices using Flutter and Dart, including:
+- UI/UX Design Implementation
+- State Management
+- API Integration
+- Database Operations
+- User Authentication
 
-</div>
-
-## 📚 Overview
-
-This project is part of the NTI (National Telecommunications Institute) training program. It demonstrates modern software development practices and Dart/Flutter development skills.
-
-## ✨ Features
-
-- [Add your main features]
-- [Add feature 2]
-- [Add feature 3]
-
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 - **Language**: Dart
-- **Framework**: Flutter (or describe what you built)
-- **Tools**: [Add relevant tools]
+- **Framework**: Flutter
+- **Tools**: Android Studio / VS Code
+- **Version Control**: Git
 
-## 📦 Project Structure
+## ✨ Learning Outcomes
 
-```
-nti/
-├── lib/
-│   └── main.dart
-├── assets/
-├── test/
-└── pubspec.yaml
-```
+- Flutter fundamentals
+- Dart programming
+- Mobile app architecture
+- UI/UX best practices
+- API integration
+- State management
+
+## 📁 Project Structure
+
+nti/ ├── lib/ │ ├── main.dart │ ├── screens/ │ ├── widgets/ │ └── models/ ├── assets/ ├── test/ └── pubspec.yaml
+
+Code
 
 ## 🚀 Getting Started
 
 ### Prerequisites
+- Flutter SDK
 - Dart SDK
-- Flutter SDK (if applicable)
+- Android Studio or VS Code
+- Git
 
 ### Installation
 
 ```bash
-# Clone the repository
 git clone https://github.com/marwa906/nti.git
-
-# Navigate to project directory
 cd nti
-
-# Get dependencies
 flutter pub get
-
-# Run the project
 flutter run
-```
+📖 Usage
+Launch the app and navigate through the different screens to explore the functionality.
 
-## 📖 Usage
+🎓 Training Institute
+National Telecommunications Institute (NTI)
 
-[Add usage instructions]
+👤 Author
+Marwa - @marwa906
 
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to submit issues and pull requests.
-
-## 📝 License
-
-This project is licensed under the MIT License.
-
-## 👤 Author
-
-**Marwa**
-- GitHub: [@marwa906](https://github.com/marwa906)
-
----
 
 <div align="center">
 
